@@ -1,5 +1,6 @@
 package se.lexicon.course;
 
+import se.lexicon.lecture.Lecture;
 import se.lexicon.student.Student;
 import se.lexicon.teacher.Teacher;
 
